@@ -1,0 +1,7 @@
+>conda create -n "environment name" python=3.10
+>activate "project name"
+>jupyter notebook
+>pip install flask(and other packages)
+>pip freeze > requirements.txt
+>python app.py
+
